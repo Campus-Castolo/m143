@@ -1,0 +1,7 @@
+To open the markdown file please download VSC
+If already installed please do the following:
+
+Settingswheel > Extensions alternatively you can just press Ctrl. + shift + X
+
+after that search for the extension "gera2ld.markmap-vscode"
+with that you should be able to view the markmap
