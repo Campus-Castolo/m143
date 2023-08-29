@@ -15,12 +15,25 @@ OrgInv&trade; tasked the external professional to backup their own concepts on a
 ## Backup concept overview
 Let me provide an executive summary of my backup concept by providing a high-level overview with the help of a concept plan.
 
-![Alt text](image-1.png)
+![Alt text](images/basconcept.png)
 
 In this high-level overview you see that I have defined what Informations I need to backup into the cloud.
 
 ### Extensive concept overview
-In this concept plan I have scaled up all these 
+In this concept plan I tried, to be more concise in which files I have to backup into the AWS cloud. I have three objectives I need to backup:
 
-![Alt text](image.png)
+1. `Concept files for customers`<br>
+These files, are proposals from OrgInv&trade; for their customers. These files contain a conceptual plan for their clienteles specific demands.
+2. `Identification Information`<br>
+These datasets are a part of the OrgInv's&trade; special customer database. These files are very specific in their structure their contents always have "IAMAORGINV" at the start. This specific string set defines that it is a Identification Information.
+3. `Additional files`<br>
+These are files that are not of critical importance, but still hold some kind of merit within the organization. These files are from all divisions within the OrgInv&trade; organization.
+
+These files then get put into an S3 Bucket for backup. These S3 Backup will detect of which importance these files. They will then apply some rules I predefined. The S3 Bucket may decide to archive some files while only backing up others.
+
+Each S3 Bucket will have some kind of redundancy. This will be guaranteed by having a replica in another availability zones.
+
+You can also see in which Region I will keep these S3 Buckets One will be Global, with this I mean either in the EU or in EU-Central or EU-West. The other buckets will always be in EU-Central.
+
+![Alt text](images/advconcept.png)
 
