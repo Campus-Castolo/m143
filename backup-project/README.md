@@ -12,10 +12,15 @@ OrgInv's&trade; demands that only specific dataset get secured, since they don't
 
 OrgInv&trade; tasked the external professional to backup their own concepts on a set interval of every ``5 days``. They also asked him to make a backup of their Identification data on a set interval of every ``day``
 
-## Backup Concept Overview
+## Backup concept overview
 Let me provide an executive summary of my backup concept by providing a high-level overview with the help of a concept plan.
 
 ![Alt text](image-1.png)
+
+In this high-level overview you see that I have defined what Informations I need to backup into the cloud.
+
+### Extensive concept overview
+In this concept plan I have scaled up all these 
 
 ![Alt text](image.png)
 
