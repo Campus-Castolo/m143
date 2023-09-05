@@ -51,10 +51,12 @@ They contacted the external contractor per email with the following business opp
 
     From: Éric Doulmont, Head of Engineering OrgInv <éric.doulmont@orginv.com>
     Sent: Monday, September 4, 2023 10:00:01 AM
-    To: Rayan Lee Bopp, IMAM Institution <rayan.bopp@imam.com>
+    To: customer service, IMAM Institution <customer.service@imam.com>
     Subject: Business proposal migration from on-premise to cloud
 
-    Good Morning
+    Dear IMAM customer service team
+
+    
     
  
 
