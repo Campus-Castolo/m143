@@ -54,7 +54,18 @@ They contacted the external contractor per email with the following business opp
     To: customer service, IMAM Institution <customer.service@imam.com>
     Subject: Business proposal migration from on-premise to cloud
 
-    Dear IMAM customer service team
+    Dear IMAM customer service team,
+
+    We contact you, due to a deciscion we made last year during our annual management meeting. Together we have made the executive desicion that it would be more cost effective, to downscale our on-prem infrastructure and migrate to a cloud-based enviornment.
+
+    Since this is a large scale project for us we have made a bulletlist of what need to be done:
+
+    • Analyzing the current state of the OrgInv Infrastructure
+    • Optimizing the OrgInv Infrastructure and creating a plan for the optimized infrastructure.
+    • Drafting a cost-estimation
+    • The creation of a graphic that allows one to have a high-level overview over the cloud-based infrastructure
+
+    
 
     
     
