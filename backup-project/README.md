@@ -52,18 +52,58 @@ They contacted the external contractor per email with the following business opp
     From: Éric Doulmont, Head of Engineering OrgInv <éric.doulmont@orginv.com>
     Sent: Monday, September 4, 2023 10:00:01 AM
     To: customer service, IMAM Institution <customer.service@imam.com>
-    Subject: Business proposal migration from on-premise to cloud
+    Subject: Business proposal part migration from on-premise to cloud
 
     Dear IMAM customer service team,
 
     We contact you, due to a deciscion we made last year during our annual management meeting. Together we have made the executive desicion that it would be more cost effective, to downscale our on-prem infrastructure and migrate to a cloud-based enviornment.
 
-    Since this is a large scale project for us we have made a bulletlist of what need to be done:
+    Since this is a large scale project for us we have made a bulletlist of what needs to be done:
 
     • Analyzing the current state of the OrgInv Infrastructure
     • Optimizing the OrgInv Infrastructure and creating a plan for the optimized infrastructure.
     • Drafting a cost-estimation
-    • The creation of a graphic that allows one to have a high-level overview over the cloud-based infrastructure
+    • The creation of a graphic that allows one to have a high-level overview over the cloud-based infrastructure.
+    • The Creation of a graphic that allows one to have a deep-level overview over the cloud-based infrastructure.
+    • Overseeing and leading the migration process
+    • Documenting the migration process in form of a documentation.
+    • Educating the inten IT-staff on the new changes
+    • Maintaining and monitor the cloud enviornment for the adjustment period (approx. 4 Weeks)
+
+    We have attached a plan of our existing on-premise infrastructure.  
+
+    If you are interested in our job offer, kindly get in touch with us within 14 business days. Additionally, we kindly request that you provide us with a quota.
+
+    Upon receiving your quota, we will assess your suitability as a candidate for our organization. We will then inform you of our decision and further details. Regardless of the outcome, we wish you the best of luck in your endeavors.
+  
+    Kind Regards
+
+    Éric Doulmont
+    Head of Engineering
+    OrgInv Corporation
+    Genéve, Rue de Rhône 29
+
+As you can see from this email that Éric Doulmont has sent me I was given a potential job offer, by migrating an existing on premise infrastructure into the cloud.
+
+He also tasked me to create an quota [in ger. Offerte] this means that I have to make a rough estimate of all the cost ± 2500 CHF. <br>
+This includes the following things:
+
+* Estimated cost for EC2
+    * Estimated cost for application servers
+    * Estimated cost for front-end servers
+* Estimated cost for S3 Buckets/S3 Selects
+    * Estimated cost for S3 Select retrievals
+    * Estimated cost for S3 Select 
+* Estimated cost for Amazon Aurora MySQL-Compatible DB
+* Estimated cost for Amazon Route 53
+* Estimated cost for AWS Shield
+* Estimated cost for AWS Secrets Manager
+
+These are only the rudementary services that have to be included for the AWS Cloud. However the quota doesn't only contain the cost for the services but the manpower as well.<br>
+
+## Initial planning phase
+For the initial planning phase I have to draft a quota, in which I'll list all the costs regarding the part migration as per guidelines of OrgInv Corporation.
+
 
     
 
