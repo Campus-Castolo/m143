@@ -1,4 +1,10 @@
 # Cloud based infrastructure for Doupont Holdings LLC
+<details>
+<summary>ℹ️ Info</summary>
+This is a repository that is a working process in paralell with the repository M346. 
+
+[M346 Repository](https://github.com/Campus-Castolo/m346)
+</details>
 
 ## [Who is Doupont Holdings](projectdocumentation/history-doupont-holdings.md#who-is-doupont-holdings-llc)
 Gives an insight who Doupont Holdings is and where they come from.
