@@ -1,7 +1,7 @@
 # Cloud based infrastructure for Doupont Holdings LLC
 <details>
 <summary>ℹ️ Info</summary>
-This is a repository that is a working process in paralell with the repository M346. 
+This is a repository that is a working process in paralell with the repository M346. In the M346 Repository everything regarding the cloud platform will be documented there.
 
 [M346 Repository](https://github.com/Campus-Castolo/m346)
 </details>
