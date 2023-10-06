@@ -8,3 +8,4 @@ Gives insight into the core-values of Doupont Holdings.
 
 ## [Business Proposal](proposal-doupont-holdings.md)
 The E-Mail sent by the Head of Engineering at Doupont Holdings LLC, stating that Doupont Holdings is in need of a migration from some on-prem services.
+

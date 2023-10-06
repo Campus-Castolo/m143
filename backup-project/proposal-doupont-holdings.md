@@ -9,11 +9,13 @@
 
     Since this is a large scale project for us we have made a bulletlist of what needs to be done:
 
-    • Analyzing the current state of the Doupont Holdings Infrastructure
+    • Analyzing the current state of the Doupont Holdings Infrastructure and backup plan.
     • Optimizing the Doupont Holdings Infrastructure and creating a plan for the optimized infrastructure.
     • Drafting a cost-estimation
     • The creation of a graphic that allows one to have a high-level overview over the cloud-based infrastructure.
-    • The Creation of a graphic that allows one to have a deep-level overview over the cloud-based infrastructure.
+    • The creation of a graphic that allows one to have a deep-level overview over the cloud-based infrastructure.
+    • The creation of a graphic that allows one to have a high-level overview over which files are being backuped and by what importancy.
+    • The creation of a graphic that allows one to have a deep-level overview over which files are being backuped and by what importancy.
     • Overseeing and leading the migration process
     • Documenting the migration process in form of a documentation.
     • Educating the inten IT-staff to the new changes
