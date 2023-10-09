@@ -6,6 +6,8 @@ This is a repository that is a working process in paralell with the repository M
 [M346 Repository](https://github.com/Campus-Castolo/m346)
 </details>
 
+## [Project Competencies of M143](projectdocumentation/competencies.pdf)
+
 ## [Who is Doupont Holdings](projectdocumentation/history-doupont-holdings.md#who-is-doupont-holdings-llc)
 Gives an insight who Doupont Holdings is and where they come from.
 
