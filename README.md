@@ -16,4 +16,4 @@ Gives an insight into the core-values of Doupont Holdings.
 The E-Mail sent by the Head of Engineering at Doupont Holdings LLC, stating that Doupont Holdings is in need of a migration from some on-prem services.
 
 ## [Data Classification](projectdocumentation/doupont-holdings-data-classifications.md)
-Gives an insight into the data classifications set by Doupont Holdings LLC.
+Gives an insight into the data classifications and data policies set by Doupont Holdings LLC.
