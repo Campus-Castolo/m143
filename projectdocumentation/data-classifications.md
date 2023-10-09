@@ -26,3 +26,7 @@ All data generated, stored or processed by DHLLC must be categorized into one of
 - Data classified at this level is designated as internal and is accessible to all internal and external employees contracted by DHLLC, provided they possess the requisite clearance. Data at this level may make references to data at the DHLLC1-D - PUBLIC level, but it is essential to note that no content or data classified as DHLLC2-D INTERNAL should be present within the aforementioned data classification level.
 - Data at this level may be stored within DHLLC's private and public cloud environments, provided that these environments meet the necessary security standards to ensure the data's safety. In the event of storage in a cloud environment, no separate encryption is required for this data. Alternatively, data of this level can also be stored on storage servers with access rights managed via the Active Directory.
 - There are no geographical restrictions imposed on the storage of data within DHLLC's private/public cloud environments or on-premises storage solutions.
+
+**DHLLC3-D - CONFIDENTIAL**
+- Data at this level is restricted to specific internal personnel with the requisite data clearance, granting them access to view and modify data classified at the DHLLC3-D - CONFIDENTIAL level. It is crucial to note that the content of data classified as DHLLC3-D - CONFIDENTIAL should only exist within the same data classification level. While it can refer to data at a lower level, the reverse is not permissible.
+- 
