@@ -1,33 +1,25 @@
     From: Éric Doulmont, Head of Engineering Doupont Holdings LLC <éric.doulmont@orginv.com>
     Sent: Monday, September 4, 2023 10:00:01 AM
     To: customer service, IMAIM Institution <customer.service@imaim.com>
-    Subject: Business proposal migration from on-premise to cloud
+    Subject: Business proposal; New backup solution
 
-    Dear IMAM customer service team,
+    Dear IMAIM Customer Service Team,
 
-    We contact you, due to a deciscion we made last year during our annual management meeting. Together we have made the executive desicion that it would be more cost effective, to downscale our on-prem infrastructure and migrate to a cloud-based enviornment.
+    I hope this message finds you in good health. I am writing on behalf of Doupont Holdings LLC, our longstanding partner, to address an important matter. Over the past eight years, we have greatly appreciated the quality products and services provided by IMAIM, and it is with utmost confidence in your expertise that we reach out today.
 
-    Since this is a large scale project for us we have made a bulletlist of what needs to be done:
+    Regrettably, our company is currently grappling with a staffing shortage due to the demands of a recent project. Given our positive history and extensive experience with your services, we firmly believe that IMAIM Institution is the most qualified partner to assist us with this critical project.
 
-    • Analyzing the current state of the Doupont Holdings Infrastructure and backup plan.
-    • Optimizing the Doupont Holdings Infrastructure and creating a plan for the optimized infrastructure.
-    • Drafting a cost-estimation
-    • The creation of a graphic that allows one to have a high-level overview over the cloud-based infrastructure.
-    • The creation of a graphic that allows one to have a deep-level overview over the cloud-based infrastructure.
-    • The creation of a graphic that allows one to have a high-level overview over which files are being backuped and by what importancy.
-    • The creation of a graphic that allows one to have a deep-level overview over which files are being backuped and by what importancy.
-    • Overseeing and leading the migration process
-    • Documenting the migration process in form of a documentation.
-    • Educating the inten IT-staff to the new changes
-    • Maintaining and monitor the cloud enviornment for the adjustment period (approx. 4 Weeks)
+    This project's primary objective is to replace our outdated backup solution with a more robust and resilient system, one that offers enhanced protection against data loss and unforeseen disasters. We trust your capabilities and are willing to grant you the creative freedom necessary to achieve these goals.
 
-    If you are interested in our job offer, kindly get in touch with us within 14 business days. Additionally, we kindly request that you provide us with a quota.
+    We understand that challenges can surface in any business, and we firmly believe that through collaborative efforts, we can find a solution that benefits both parties. Our partnership with IMAIM holds immense value, and we are committed to ensuring its enduring success.
 
-    Upon receiving your quota, we will assess your suitability as a candidate for our organization. We will then inform you of our decision and further details. Regardless of the outcome, we wish you the best of luck in your endeavors.
+    We kindly request that you inform us of your availability for a meeting or further discussions regarding this matter. We remain open to any suggestions or solutions you may have and eagerly anticipate a prompt resolution, further solidifying our successful partnership.
 
-    Kind Regards
+    Thank you for your attention and continued support.
+
+    Sincerely,
 
     Éric Doulmont
     Head of Engineering
     Doupont Holdings LLC
-    Genéve, Rue de Rhône 29
+    Tel: +41 57 423 60 55
